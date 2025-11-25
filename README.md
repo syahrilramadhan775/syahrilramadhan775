@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-  <img src="https://img.freepik.com/premium-vector/linkedin-logo-icon_1273375-1174.jpg?semt=ais_hybrid&w=740&q=80" alt="linkedin" width="40" height="40"/>
+  <img src="https://img.freepik.com/premium-vector/linkedin-logo-icon_1273375-1174.jpg?semt=ais_hybrid&w=740&q=80" alt="linkedin" width="40" height="40"/>:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
