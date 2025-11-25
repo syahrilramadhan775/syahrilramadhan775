@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Backend Developer**
 
-- 🌱 I’m currently learning **Arduino Uno, Rasberry**
+- 🌱 I’m currently learning **Web3, Etherium, Solidity**
 
 - 💬 Ask me about **PHP || Python || NodeJs**
 
