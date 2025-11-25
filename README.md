@@ -9,9 +9,14 @@
 
 - ⚡ Fun fact **I Like Some A Cup Cofee / Matcha**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Portfolio:</h3>
 <p align="left">
   https://syahrilramadhan775.github.io/portfolio/
+</p>
+
+<h3 align="left">Connect With Me:</h3>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
