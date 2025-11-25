@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web3, Etherium, Solidity**
 
-- 💬 Ask me about **PHP || Python || NodeJs**
+- 💬 Ask me about **PHP || Python**
 
 - ⚡ Fun fact **I Like Some A Cup Cofee / Matcha**
 
